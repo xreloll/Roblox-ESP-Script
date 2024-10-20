@@ -1,0 +1,1 @@
+-- // This is just a basic Roblox ESP Script (loadstring) || Thanks for using this script \\ --
